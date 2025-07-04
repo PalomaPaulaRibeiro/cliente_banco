@@ -4,23 +4,6 @@ Este repositório reúne uma série de projetos desenvolvidos para praticar e de
 
 ---
 
-## 📁 Projetos por Tipo de Fonte de Dados
-
-### 📂 Manipulando arquivos CSV
-Projetos com leitura, limpeza e análise de dados tabulares usando `pandas.read_csv()`.
-
-### 📊 Utilizando planilhas
-🔗 [`emissao_Co2`](https://github.com/PalomaPaulaRibeiro/emissao_Co2)  
-Leitura e manipulação de planilhas Excel e Google Sheets com `pandas` e `openpyxl`.
-
-### 🧾 Manipulando JSON
-🔗 [`pacientes_json`](https://github.com/PalomaPaulaRibeiro/pacientes_json)  
-Leitura de arquivos `.json`, normalização e exportação com `json` e `pandas`.
-
-### 🌐 Lendo dados em HTML e XML
-🔗 [`Filmes_Wikipedia`](https://github.com/PalomaPaulaRibeiro/Filmes_Wikipedia)  
-Uso de `pandas.read_html()` e `BeautifulSoup` para extrair dados estruturados da Wikipédia.
-
 ### 🗃️ Trabalhando com Banco de Dados
 Projetos que envolvem:
 
